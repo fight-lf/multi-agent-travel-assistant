@@ -1,0 +1,10 @@
+langchain
+langchain-core
+langchain-mcp-adapters
+langchain-openai
+mcp
+mysql-connector-python
+python-a2a
+pytz
+streamlit
+uvicorn
